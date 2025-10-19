@@ -4,13 +4,13 @@ Calculateur de moyenne (Ajout de matière, bdd, Rendu en Web, graphique via JS e
 # Technologies utilisées : 
 
 - BACKEND : 
-    - FastAPI, Python 3, SQLalchemy, Alembic
+    - FastAPI, Python 3, SQLalchemy
 
 - FRONTEND : 
     - HTML, Bootstrap, Ajax, React, Chart.js
 
 - BDD : 
-    - MariaDB / MySQL
+    - MariaDB
 
 ## Options et features
 
