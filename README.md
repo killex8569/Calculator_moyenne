@@ -1,20 +1,11 @@
 # Calculator_moyenne
-Calculateur de moyenne (Ajout de matière, bdd, Rendu en Web, graphique via JS etc....)
 
-# Technologies utilisées : 
-
-- BACKEND : 
-    - FastAPI, Python 3, SQLalchemy
-
-- FRONTEND : 
-    - HTML, Bootstrap, Ajax, React, Chart.js
-
-- BDD : 
-    - MariaDB
+Ce calculateur de moyenne se base sur un fichier CSV, le fichier CSV soit contenir les éléments suivants : semestre, notes et coef.
+Chaques notes de chaque matières/modules sont calculé en fonction du coef et trier par semestre ! 
 
 ## Installation
 
-(A faire)
+(A faire) --> Script bash
 
 ## Dans un premier temps, apprendre les notions suivantes
 
@@ -29,8 +20,6 @@ Calculateur de moyenne (Ajout de matière, bdd, Rendu en Web, graphique via JS e
 
 # Update possibles
 
-
-- Fonction de tri par semestre / année
 - Ajouter un fichier de sortie pour voirs qu'elles sont les modules que l'on doit repasser ainsi que les notes à refaire
 - Interface Web simple (Utilisation d'un JSON)
 - Sortie de fichier en format JSON
