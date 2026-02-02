@@ -12,13 +12,6 @@ Calculateur de moyenne (Ajout de matière, bdd, Rendu en Web, graphique via JS e
 - BDD : 
     - MariaDB
 
-## Options et features
-
-- Ajouter, supprimer, lire, modifier des matières / modules
-- Ajouter, supprimer, lire, modidier les notes par matières / modules
-- Affichage dans l'interface Web dynamique
-- Intégration de chart.js (à chaque modification, le système sauvegarde la dernière valeur du jour (une seule par date) pour générer des graphiques d’évolution temporelle via Chart.js.)
-
 ## Installation
 
 (A faire)
@@ -33,3 +26,11 @@ Calculateur de moyenne (Ajout de matière, bdd, Rendu en Web, graphique via JS e
 - routing
 - url propres
 - injections SQL / failles XSS / failles CSRF
+
+# Update possibles
+
+
+- Fonction de tri par semestre / année
+- Ajouter un fichier de sortie pour voirs qu'elles sont les modules que l'on doit repasser ainsi que les notes à refaire
+- Interface Web simple (Utilisation d'un JSON)
+- Sortie de fichier en format JSON
